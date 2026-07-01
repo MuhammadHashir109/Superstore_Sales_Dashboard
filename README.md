@@ -3,7 +3,7 @@
 ![Dashboard]([1778219049840_image.png](https://github.com/MuhammadHashir109/Superstore_Sales_Dashboard/blob/main/Superstore%20Sales%20Dashboard.PNG)
 
 ## 📌 Project Overview
-This project presents an interactive **SuperStore Sales Dashboard** built using **Tableau**, analyzing sales performance, profitability, customer segments, and regional trends across multiple dimensions.
+This project presents an interactive **SuperStore Sales Dashboard** built using **Power BI**, analyzing sales performance, profitability, customer segments, and regional trends across multiple dimensions.
 
 ---
 
