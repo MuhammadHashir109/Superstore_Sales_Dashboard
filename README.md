@@ -107,7 +107,7 @@ git clone https://github.com/yourusername/superstore-sales-dashboard.git
 ---
 
 ## 📬 Connect With Me
-- 💼 [LinkedIn](www.linkedin.com/in/muhammad-hashi)
+- 💼 [LinkedIn](wwww.linkedin.com/in/muhammad-hashir-data)
 ---
 
 ⭐ **If you found this project helpful, please give it a star!** ⭐
